@@ -2,4 +2,4 @@
 
 edit
 
-beta edit
+squash edit
